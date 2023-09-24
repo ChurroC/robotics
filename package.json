@@ -26,6 +26,7 @@
     "superjson": "^1.13.1",
     "zod": "^3.21.4"
   },
+  "//": "Do 'npx new-component-churro component-name' to create a new component.",
   "devDependencies": {
     "@types/eslint": "^8.44.2",
     "@types/node": "^18.16.0",
@@ -36,6 +37,7 @@
     "autoprefixer": "^10.4.14",
     "eslint": "^8.47.0",
     "eslint-config-next": "^13.4.19",
+    "new-component-churro": "^5.0.2",
     "postcss": "^8.4.27",
     "prettier": "^3.0.0",
     "prettier-plugin-tailwindcss": "^0.5.1",
